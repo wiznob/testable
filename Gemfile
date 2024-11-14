@@ -45,7 +45,7 @@ group :development, :test do
 
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem 'bundler-audit'
-  # gem 'pg'
+  gem 'pg'
   gem 'rubocop'
   gem 'rubocop-rails'
   gem 'rubocop-rails-omakase', require: false
